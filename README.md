@@ -23,11 +23,11 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="output/metrics.svg" width="400" />
     <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/YumaKyogoku/YumaKyogoku/output-3d-contrib/day.svg" />
   </picture>
-  <picture>
+  <!-- <picture>
    	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
     <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
     <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/YumaKyogoku/YumaKyogoku/output-3d-contrib/day.svg" />
-  </picture>
+  </picture> -->
 </p>
 
 <p align="left" >
@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 	</picture>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <picture>
-    <!-- <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" /> -->
+    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
     <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
   <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/YumaKyogoku/YumaKyogoku/output-3d-contrib/day.svg" />
   </picture>
-</p>
+</p> -->
